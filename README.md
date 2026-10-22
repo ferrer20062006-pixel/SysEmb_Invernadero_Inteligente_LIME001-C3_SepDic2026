@@ -17,8 +17,3 @@ Diseñar e implementar un prototipo de invernadero inteligente basado en el micr
 
 - José Luis Ferrer Jiménez
 - Israel León López
-
-## Estructura del repositorio
-
-- `README.md`: descripción general del proyecto e integrantes.
-- `presentacion/`: presentaciones de PowerPoint correspondientes a las entregas del proyecto.
